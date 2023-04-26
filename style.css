@@ -6,5 +6,33 @@ body {
 
 main {
     width: 40rem;
+    margin: auto;
+    line-height: 175%;
+    padding-bottom: 10rem;
+}
+
+img {
+    width: 40rem;
+}
+
+h1 {
+    text-align: center;
+    color:darkcyan;
+    padding: 1rem;
+    line-height: 175%;
+}
+
+h2 {
+    font-size: 1rem;
+    background-color: darkcyan;
+    text-align: center;
+    color: whitesmoke;
+
+}
+
+a {
+    color:darkcyan;
+    font-weight: bold;
+    text-decoration: none;
 }
 
